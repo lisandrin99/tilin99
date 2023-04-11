@@ -1,0 +1,25 @@
+{
+    "name": "tilin99",
+    "description": "",
+    "dependencies": {
+        "device": "*",
+        "vecinos invasorsores": "github:lisandrin99/vecinos-invasorsores#master"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "assets.json"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "target": "1.12.26",
+        "targetId": "arcade"
+    },
+    "supportedTargets": [
+        "arcade"
+    ],
+    "preferredEditor": "blocksprj"
+}
